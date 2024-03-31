@@ -1,0 +1,7 @@
+{
+  "name": "app-busca-preco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
