@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "app-busca-preco": {
+      "hosting": {
+        "app": [
+          "app-busca-preco"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "app-busca-preco"
+  }
+}
