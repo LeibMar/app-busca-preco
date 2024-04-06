@@ -6,13 +6,7 @@ import { initializeApp } from "firebase/app";
 export const environment = {
   production: false,
    firebaseConfig: {
-    apiKey: "AIzaSyC4ctDVSt5wzXCtiMeARXoWh4BxEILmUpE",
-    authDomain: "app-busca-preco.firebaseapp.com",
-    projectId: "app-busca-preco",
-    storageBucket: "app-busca-preco.appspot.com",
-    messagingSenderId: "505438678680",
-    appId: "1:505438678680:web:944aa10295877d47f76aed",
-    measurementId: "G-MD2CXMKF4K"
+   
   }
   
 };
